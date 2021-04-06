@@ -80,7 +80,7 @@ The solved grid is showed by writing the numbers on blank spaces on the warped i
 # SALIENT FEATURES
 
 - Grid is shown with different colours showing different processes. Red border means it is storing index of blank spaces which will be used later to ensure that sudoku grid is not changed. Yellow border means digits are being recognised and grid is being made. Green border means sudoku is being solved and when it is solved it is shown.
-- Index of blank spaces of current sudoku grid is compared with the index of blank spaces stored when grid was red. If at any time there is difference in blank spaces then whole process will start from start.
+- Index of blank spaces of current sudoku grid is compared with the index of blank spaces stored when grid was red. If at any time there is difference in blank spaces then whole process will begin from start.
 - 3 boxes are given at a time to recognise the digits, hence framerate remains constant even in systems which do not have GPU. 
 
 
