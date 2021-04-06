@@ -43,7 +43,7 @@ All the blank images are converted into black boxes.
 
 # RECOGNISING THE DIGITS
 
-The digits are recognisied using a trained CNN model. The model is trained using 10000 images. 25 epochs were used to train the model.
+The digits are recognisied using a trained CNN model. The model is trained using 10000 images. 25 epochs were done to train the model.
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/60431758/113702391-1185c500-96f7-11eb-96f4-eed8c465317e.png)<br>
 
