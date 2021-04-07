@@ -65,13 +65,13 @@ Blank spaces are represented by 0.
 
 ![Screenshot (99)](https://user-images.githubusercontent.com/60431758/113705764-73482e00-96fb-11eb-8b04-df58d3a49871.png)
 
-# SOLVING THE SUDOKU GRID
+- # SOLVING THE SUDOKU GRID
 
 The sudoku grid is solved using backtracking.
 
 ![Screenshot (100)](https://user-images.githubusercontent.com/60431758/113705803-7fcc8680-96fb-11eb-8490-eb37f39519e9.png)
 
-# SHOWING THE DIGITS
+- # SHOWING THE DIGITS
 
 The solved grid is showed by writing the numbers on blank spaces on the warped image.
 
@@ -86,6 +86,7 @@ The solved grid is showed by writing the numbers on blank spaces on the warped i
 - Grid is shown with different colours showing different processes. Red border means it is storing index of blank spaces which will be used later to ensure that sudoku grid is not changed. Yellow border means digits are being recognised and grid is being made. Green border means sudoku is being solved and when it is solved it is shown.
 - Index of blank spaces of current sudoku grid is compared with the index of blank spaces stored when grid was red. If at any time there is difference in blank spaces then whole process will begin from start.
 - 3 boxes are given at a time to recognise the digits, hence framerate remains constant even in systems which do not have GPU. 
+
 
 
 
