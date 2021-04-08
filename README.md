@@ -57,8 +57,6 @@ Images of all the numbers were present in almost equal number.
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/60431758/113704106-590d5080-96f9-11eb-9392-4fa71a1ffd40.png)
 
-Due to non availability of GPU in my system, all the 81 numbers were not given at once as it slows down the framerate. Instead 3 images were given at each frame which kept the framerate almost constant. This process is showed by yellow frame around the sudoku grid.
-
 - # MAKING THE SUDOKU GRID
 
 Blank spaces are represented by 0.
