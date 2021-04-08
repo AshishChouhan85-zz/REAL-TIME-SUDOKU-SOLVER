@@ -1,6 +1,6 @@
 # REAL-TIME-SUDOKU-SOLVER
 
- This projects detects and solve a sudoku grid in real time. 
+ This project detects and solves a sudoku grid in real time. 
 
 ![Screenshot (89)](https://user-images.githubusercontent.com/60431758/113689933-7b4aa280-96e8-11eb-838a-4726d47abf68.png)<br>
 
